@@ -1,5 +1,2 @@
-this is a file showing how to navigate the shell
-you have to read carefully to get the whole concept
-#!/bin/bash
-echo "pwd"
-
+ #!/bin/bash
+ echo 'pwd' 
