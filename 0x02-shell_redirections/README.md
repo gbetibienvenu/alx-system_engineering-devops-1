@@ -1,1 +1,1 @@
-number 20 of the same advanced task
+script on 26 on shell redirect
