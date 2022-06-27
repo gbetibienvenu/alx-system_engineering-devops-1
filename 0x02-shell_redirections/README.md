@@ -1,1 +1,1 @@
-Script on how ro read 2 files
+aceipt on last line of a file
