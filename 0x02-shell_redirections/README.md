@@ -1,1 +1,1 @@
-script on how to read a file
+Script on how ro read 2 files
