@@ -1,1 +1,1 @@
-number 9 script
+number 11 of shell redirection
