@@ -1,1 +1,1 @@
-this is a script on confused similey
+script on how to read a file
