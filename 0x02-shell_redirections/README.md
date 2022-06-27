@@ -1,1 +1,1 @@
-aceipt on last line of a file
+script on how to Display the first 10 lines of /etc/passwd
