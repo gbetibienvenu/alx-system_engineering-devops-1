@@ -1,1 +1,1 @@
-script on 26 on shell redirect
+modified number 24 of shell redirect
